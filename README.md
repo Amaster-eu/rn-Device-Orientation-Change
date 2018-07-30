@@ -9,6 +9,7 @@
 ```
 $ npm install -g create-react-native-app
 $ git clone https://github.com/Amaster-eu/rn-Device-Orientation-Change.git
+$ npm install
 $ npm start
 ```
 View your app with live reloading: Press `a` to open Android device or emulator, or `i` to open iOS emulator.
