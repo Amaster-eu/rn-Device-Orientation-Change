@@ -2,6 +2,19 @@
 
 ![img](https://github.com/Amaster-eu/demo/blob/master/demo_rn-DeviceOrientationChange.gif)
 
+*Demo apps*
+
+## Installation
+
+```
+$ npm install -g create-react-native-app
+$ git clone https://github.com/Amaster-eu/rn-Device-Orientation-Change.git
+$ npm start
+```
+View your app with live reloading: Press **a** to open Android device or emulator, or **i** to open iOS emulator.
+
+## About
+
 I want to do is to produce a single app that does master-detail properly for both tablets and phones. 
 To do that, I needed to be able to do two things:
 
