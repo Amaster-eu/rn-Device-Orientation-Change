@@ -6,10 +6,10 @@
 *.log
 *.tmp
 *.tmp.*
-log.txt
 *.sublime-project
 *.sublime-workspace
-.vscode/
+*-lock.json
+log.txt
 
 .env.local
 .env.development.local
@@ -20,6 +20,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+.vscode/
 .expo/
 .idea/
 .sourcemaps/
