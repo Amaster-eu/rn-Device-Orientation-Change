@@ -1,6 +1,6 @@
 # React Native: Device Orientation Change
 
-![img](demo_rn-DeviceOrientationChange.gif)
+![img](https://github.com/Amaster-eu/demo/blob/master/demo_rn-DeviceOrientationChange.gif)
 
 I want to do is to produce a single app that does master-detail properly for both tablets and phones. 
 To do that, I needed to be able to do two things:
